@@ -3,7 +3,7 @@
 # Program Lingkaran
 
 print('=' * 40)
-print('PROGRAM LINGKARAN')
+print('RUMUS LINGKARAN')
 print('=' * 40)
 
 jari2 = int(input("masukkan jari jari :"))
