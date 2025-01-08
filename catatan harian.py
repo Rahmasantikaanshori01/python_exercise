@@ -2,6 +2,10 @@
 # Tanggal pengerjaan : 05 januari 2025
 # program catatan harian
 
+print('-'*40)
+print("\t CATATAN HARIAN")
+print('-'*40)
+
 import os
 
 # Nama file untuk menyimpan catatan
