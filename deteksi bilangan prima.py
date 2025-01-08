@@ -2,6 +2,10 @@
 # Tanggal pengerjaan : 06 januari 2025
 # program deteksi bilangan prima
 
+print('-'*40)
+print("\tDETEKSI BILANGAN PRIMA")
+print('-'*40)
+
 def cek_prima(angka):
     """Fungsi untuk memeriksa apakah sebuah angka adalah bilangan prima."""
     if angka <= 1:
