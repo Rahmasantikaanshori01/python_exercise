@@ -52,5 +52,5 @@ def kalkulator_luas_keliling():
 
     else:
         print("Pilihan tidak valid!")
-r
+
 kalkulator_luas_keliling()
